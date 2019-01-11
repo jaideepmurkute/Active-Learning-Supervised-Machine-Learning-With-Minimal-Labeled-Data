@@ -15,6 +15,8 @@ keras -      for easy dataset access)
 
 matplotlib - for visualizations
 
+Ranking function from https://github.com/davefernig/alp
+
 **Sample Results:**
 
 
