@@ -19,3 +19,8 @@ keras -      for easy dataset access)
 
 
 matplotlib - for visualizations
+
+Sample Results:
+![alt text](https://raw.githubusercontent.com/jaideepmurkute/Active-Learning---Supervised-Machine-Learning-With-Minimal-Data/blob/master/MNIST_Digits_Logistic_Regression.jpg)
+
+![alt text](https://raw.githubusercontent.com/jaideepmurkute/Active-Learning---Supervised-Machine-Learning-With-Minimal-Data/blob/master/MNIST_Fashion_Logistic_Regression.jpg)
